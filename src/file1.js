@@ -11,3 +11,7 @@ function e(f) {
 function i() {
   console.log('i');
 }
+
+function j() {
+  console.log('j');
+}
