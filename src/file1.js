@@ -7,3 +7,7 @@ function a(b) {
 function e(f) {
   return f + 2;
 }
+
+function j() {
+  console.log('j');
+}

@@ -7,3 +7,7 @@ function c(d) {
 function g(h) {
   return h - 1;
 }
+
+function j() {
+  console.log('j');
+}
